@@ -1,3 +1,3 @@
 #DEMO
 
-creating a readme file for c progaramme
+creating a readme file for c progaramme!

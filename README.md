@@ -1,4 +1,4 @@
 #DEMO
 
-creating a readme file for c progaramme!
+creating a readme file for  progaramme!
 TEST FOR UPDATION
